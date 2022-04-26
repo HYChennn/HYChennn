@@ -15,7 +15,7 @@ h1 {
     color: rgb(255, 255, 255);
     font-size: 300%;
     text-align: center;
-    line-height: 1
+    line-height: 1;
 }
 
 main {
@@ -36,4 +36,12 @@ h2 {
 
 a {
     color: #db6ace
+}
+
+.round{
+    border-radius:50%;
+}
+
+h1,header,nav,footer{
+    text-align: center;
 }
