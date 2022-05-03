@@ -63,7 +63,7 @@ position: relative;
 position: absolute;
 }
 #a ul{
-margin-top: 51px;
+margin-top: 33px;
 margin-left: 57px;
 list-style: none;
 }
@@ -75,11 +75,24 @@ padding-top: 58px;
 padding-left: 80px;
 }
 #e ul li:not(li:first-child){
-margin-top: 75px;
+margin-top: 68px;
 }
 #c{
-padding-top: 57px;
+padding-top: 40px;
 padding-left: 80px;
+width: 100%;
+}
+#c ul{
+    width: 80%;
+}
+#c ul li{
+    position: relative;
+}
+#c ul .c-img{
+    top: -20px;
+    width: 150px;
+    position: absolute;
+    right: 0px;
 }
 #c ul li:not(li:first-child){
 margin-top: 134px;
@@ -96,7 +109,7 @@ color: #000;
 }
 #contact{
 padding-top: 76px;
-padding-left: 57px;
+padding-left: 55px;
 }
 #contact ul li:not(li:first-child){
 margin-top: 60px;
@@ -109,4 +122,7 @@ opacity: 0;
 .d{
 transform: scale(1);
 opacity: 1;
+}
+.td{
+    text-decoration: underline;
 }
