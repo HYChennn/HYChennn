@@ -109,7 +109,7 @@
 
 /* 第一層ul背景色彩與邊框 */
 #menu ul {
-    background: #6f6f6f;
+    background: #7ccdd7;
 }
 
 /* 第一層a字型 */
@@ -121,7 +121,7 @@
 
 /*第二層ul背景色彩與邊框  */
 #menu ul li ul {
-    background: #efefef;
+    background: #79c2d9;
 }
 
 /* 第二層a字型 */
@@ -134,7 +134,7 @@
 /* 觸動第一層li時，改變背景色 */
 #menu ul li:hover,
 #menu ul li a:hover {
-    background: #efefef;
+    background: #a8e1ee;
 }
 
 #menu ul li:hover a {
@@ -144,5 +144,5 @@
 /* 觸動第二層以上li時改變背景色 */
 #menu ul li ul li:hover,
 #menu ul li ul li a:hover {
-    background: #dfdfdf;
+    background: #a8e1ee;
 }
