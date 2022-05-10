@@ -13,7 +13,6 @@
     padding: 0;
     /* 內有浮動元件時，需設overflow才會自動調整大小 */
     overflow: auto;
-    overflow: ;
 }
 
 #menu ul li {
@@ -66,10 +65,6 @@
     margin-bottom: 0;
     margin-left: 100px;
     width: 100%;
-}
-
-#menu ul li ul li ul li {
-    /* width、float繼承第二層，免設定 */
 }
 
 #menu ul li ul li ul li a {
