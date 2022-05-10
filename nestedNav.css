@@ -67,7 +67,7 @@
     width: 100%;
 }
 
-#menu ul li ul li ul li a {
+#menu ul li ul li {
     /* width、float繼承第二層，免設定 */
 }
 
