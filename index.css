@@ -1,5 +1,5 @@
 nav {
-    background-color: pink;
+    background-color: rgb(174, 196, 232);
     text-align: right;
 }
 
@@ -12,12 +12,12 @@ nav li a {
     display: block;
     text-decoration: none;
     padding: 10px;
-    color: white;
+    color: rgb(59, 106, 224);
 }
 
 nav li a:hover {
-    background-color: lightyellow;
-    color: red;
+    background-color: rgb(190, 174, 232);
+    color: rgb(133, 59, 224);
 }
 
 nav ul{
